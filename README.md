@@ -227,16 +227,13 @@ B.E. CSE (AI & ML) · VSB College of Engineering, Karur · Class of 2029
 
 ---
 
-## 📄 License
-
-MIT License — see [LICENSE](LICENSE) for details.
 
 ---
 
 <div align="center">
 
-**Powered by Anthropic Claude · Built by Vishal R S 🟣**
+Powered by Anthropic Claude 
 
 *If FocAi impressed you, give it a ⭐ — it helps more people find it!*
-
+***Built by Vishal R S***
 </div>
